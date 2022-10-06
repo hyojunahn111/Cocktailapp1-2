@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "106847492277",
+    "project_id": "everydaystudy-998bd",
+    "storage_bucket": "everydaystudy-998bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106847492277:android:a1733a3aa776ae8c6fc6fc",
+        "android_client_info": {
+          "package_name": "com.example.cocktailapp1_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106847492277-sa4a6p96onkf7rhua6e92sf7tu2qhfhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfqBQjEIrzsJM3WWlJaXz3sjSRmQZV3EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106847492277-sa4a6p96onkf7rhua6e92sf7tu2qhfhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
